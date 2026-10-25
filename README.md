@@ -405,7 +405,7 @@ Possible future enhancements include:
 
 # 👩‍💻 Author
 
-**Vaishnavi Gadambe**
+**Balbir Singh**
 
 Computer Science Graduate \| Aspiring Data Analyst
 
@@ -416,9 +416,8 @@ Computer Science Graduate \| Aspiring Data Analyst
 
 ### Connect
 
--   GitHub: [Vaishnavi Gadambe](https://github.com/VaishnaviGadambe)
--   LinkedIn: [Vaishnavi
-    Gadambe](https://www.linkedin.com/in/vaishnavi-gadambe-64b175296/)
+-   GitHub: [Balbir Singh](https://github.com/balbirsingh12)
+-   LinkedIn: [Balbir Singh](https://www.linkedin.com/in/balbir-singh-036088253/)
 
 ------------------------------------------------------------------------
 
