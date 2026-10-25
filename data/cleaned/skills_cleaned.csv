@@ -1,0 +1,2034 @@
+id,name
+1,SQL
+2,Agile
+3,ERP Systems
+4,Issue Tracking
+5,Snowflake
+6,Analytical Skills
+7,Data Reporting
+8,Tableau
+10,Python
+11,Marketing Attribution
+12,Excel
+13,Reporting
+14,Power BI
+15,Statistical Analysis
+16,R
+17,HR Analytics
+18,Data Analysis
+19,Recruitment Metrics
+20,Dashboarding
+21,Web Analytics
+22,Data Visualization
+23,A/B Testing
+24,User Behavior Tracking
+25,Campaign Analysis
+26,Hiring Funnels
+27,SaaS Analytics
+28,Marketplace Analytics
+29,Machine Learning
+31,Analytical Modeling
+32,Advanced SQL
+34,ThoughtSpot
+36,Data Quality
+37,Looker
+38,Dashboards
+39,Data Product Development
+40,Documentation
+41,Data Preparation
+44,Statistics
+45,Analytical Data Modeling
+46,Relational Databases
+47,Data Warehousing
+48,Trend Analysis
+49,Pattern Recognition
+50,Forecasting
+51,Regression Analysis
+54,Anomaly Detection
+55,CRM Systems
+57,CDP Systems
+58,Google Analytics
+59,Data Governance
+60,Jira
+61,Asana
+62,Data Privacy
+64,Google Cloud
+65,AWS
+66,Microsoft Azure
+68,Java
+69,Node.js
+70,React
+71,RDS
+74,Data Modelling
+75,Testing Frameworks
+76,Unstructured Data
+77,PyTest
+78,PySpark
+79,Structured Data
+80,JSON
+82,AWS Glue
+83,Azure
+84,Great Expectations
+85,Databricks
+91,Data Modeling
+100,Databases
+104,Mathematics
+106,Metrics Design
+109,Word
+110,Microsoft Office
+111,PowerPoint
+112,Outlook
+118,Data Analytics
+120,Business Intelligence
+122,Pivot Tables
+123,Microsoft Excel
+124,Formulas
+125,VLOOKUP
+129,Statistical Methods
+132,Data Interpretation
+134,Database Management Systems
+137,Scripting
+139,Data Manipulation
+140,Azure DevOps
+141,ETL
+155,Data Storage
+156,Database Management
+159,Data Automation
+161,Testing
+167,ChatGPT
+168,Claude
+169,Cursor
+170,Perplexity
+171,N8N
+178,Statistical Concepts
+192,Data Aggregation
+194,Data Querying
+208,Data Cleaning
+209,Data Preprocessing
+210,Data Pipelines
+211,Data Validation
+212,NumPy
+213,Pandas
+220,AI
+230,Data analysis
+231,Data visualization
+233,Data modeling
+234,Data warehousing
+307,Database queries
+319,Scripting Language
+323,Database Design
+328,KPI
+330,SaaS
+345,MySQL
+346,PostgreSQL
+354,Quantitative Analysis
+356,Business Analytics
+357,Analytics Systems
+358,Reporting Frameworks
+359,Content Analytics
+360,Product Usage Analysis
+361,Customer Interaction Analysis
+362,Hadoop
+363,AI-driven Content Retrieval Analysis
+364,Hive
+365,HBase
+366,MapReduce
+367,Redshift
+369,Vertica
+370,Data Infrastructure
+371,Data Lakes
+383,Analytics Tools
+385,Amplitude
+386,Mixpanel
+389,Metabase
+392,BI Tools
+394,GIS
+396,Data Transformation
+398,Microsoft Access
+400,Microsoft Visio
+401,Predictive Modeling
+406,Oil & Gas Industry Data
+409,ArcGIS
+410,Aries
+411,VBA
+412,QGIS
+419,Data Quality Management
+420,User Training
+421,System Administration
+422,Data Management
+423,Vendor Management
+424,Troubleshooting
+425,Operational Software Platforms
+426,FitUp Platform
+445,Salesforce
+446,CPA
+449,Conversion Rates
+451,Audience Segmentation
+452,Data Standardization
+454,LTV
+456,Data Cleansing
+457,ROI
+458,Customer Data Platform (CDP)
+469,Automation
+470,Debugging
+478,Cloud Data Warehouses
+482,Dashboard Development
+486,dbt
+487,Data Entry
+489,Data Operations
+490,XLOOKUP
+493,Data Sorting
+495,System Reports
+496,PTS
+499,Retail Logic
+500,SRS
+505,Data Architecture
+509,Reporting Infrastructure
+510,Scala
+511,C++
+512,Data Flow Analysis
+513,Regulatory Compliance
+522,HMDA
+523,NMLS MCR
+524,BigQuery
+537,Spark
+541,Hex
+547,Data Wrangling
+556,Data Synthesis
+558,Quantitative Data Analysis
+559,Experimental Design
+560,Report Writing
+561,SPSS
+563,Biometrics
+564,Research Protocol Design
+565,Qualitative Data Analysis
+567,SAS
+568,Technical Report Writing
+570,Genstat
+579,Technical Writing
+580,Data Summarization
+583,Data Collection
+589,Data Collection Template Development
+607,Research Data Management
+610,Research Protocols
+639,Statistical Data Analysis
+652,PowerBI
+706,Funnel Analysis
+710,Retention Analysis
+753,Engagement/Retention Metrics
+758,Acquisition Funnel Tracking
+761,Funnels
+762,Business Metrics
+831,Retention Metrics
+834,Engagement Metrics
+838,Acquisition Funnel Analysis
+847,Statistical Techniques
+895,Statistical techniques
+899,SSRS
+900,Business Requirements Analysis
+901,Visual Studio
+902,KPIs
+903,Azure SQL
+911,Data Integration
+915,Unstructured Data Analysis
+918,Data Extraction
+919,Data Reconciliation
+921,DevOps
+922,Metrics Definition
+927,DAX
+938,SQL Server Reporting Services
+939,User Acceptance Testing
+940,FDA Guidelines
+941,Rave
+942,Clinical Database
+943,DataLabs
+945,MedDRA
+946,Database Configuration
+947,WHODRUG
+948,Electronic Source Data Capture Systems
+949,ClinBase
+950,ICH Guidelines
+951,EDC Systems
+967,Database Administration
+971,RabbitMQ
+976,AWS S3
+977,AWS Redshift
+978,SendGrid
+979,Qlikview
+981,MS Excel
+982,Google Sheets
+992,Software Development
+994,Google Data Studio
+996,Google Slides
+1000,Google Docs
+1001,Google BigQuery
+1002,Cron
+1005,Qualitative Analysis
+1020,Metadata Management
+1025,Azure Data Factory
+1026,Azure Databricks
+1027,Data Mining
+1029,ELT
+1033,Data Marts
+1035,Data System Design
+1036,Data Structures
+1038,Azure Synapse
+1040,Data Testing
+1041,Bokeh
+1042,Microsoft Word
+1043,NoSQL
+1045,MongoDB
+1046,Neo4j
+1047,ggplot
+1053,D3.js
+1056,Microsoft PowerPoint
+1070,Data Quality Assurance
+1085,Statistical Modeling
+1091,Financial Modelling
+1093,MDP
+1094,Software Programming
+1104,QA
+1106,Microsoft Analysis Services
+1107,Big Data
+1112,C#
+1113,SQL Server
+1115,.NET
+1117,OLAP
+1129,Azure Synapse Analytics
+1133,ETL/ELT
+1139,Artificial Neural Networks
+1140,AWS Compute
+1141,Regression
+1143,Decision Tree Learning
+1145,AWS Database
+1147,AWS Machine Learning
+1149,AWS Analytics
+1150,AWS Developer Tools
+1153,Clustering
+1159,MS PowerPoint
+1163,Statistical Tests
+1164,MS Word
+1165,Data Retrieval
+1194,Programming
+1200,RDBMS
+1206,ESSBASE
+1207,Performance Management
+1209,System Design
+1212,.NET Framework
+1225,Analytics
+1228,Project Management Software
+1230,Qlik Sense
+1232,T-SQL
+1233,REST APIs
+1234,API Integration
+1235,Power Query
+1241,Stored Procedures
+1244,Source Control
+1245,M
+1248,Data Profiling
+1250,Code Migration
+1251,Microsoft SQL Server
+1253,Data Engineering
+1256,Data Pre-processing
+1263,Process Automation
+1278,QlikView
+1282,Customer segmentation
+1286,A/B testing
+1287,Cohort analysis
+1288,Conversion optimization
+1290,Domo
+1305,Technical Documentation
+1308,Data Quality Monitoring
+1311,User Acceptance Testing (UAT)
+1317,eCRF
+1318,Query Resolution
+1319,SAE Reconciliation
+1321,Clinical Coding Guidelines (CCGs)
+1323,Clinical Database Setup
+1325,Data Handling Plan (DHP)
+1329,ICH-GCP Guidelines
+1330,Data Review Plan (DRP)
+1335,Conversion Optimization
+1343,Cohort Analysis
+1344,Customer Segmentation
+1351,Cassandra
+1353,Algorithms
+1354,NoSQL Databases
+1372,Spotfire
+1375,Terrascope
+1380,Mode Analytics
+1409,Workday
+1411,CSS
+1412,HTML
+1413,JavaScript
+1421,Azure Logic Apps
+1422,RESTful APIs
+1423,Oracle
+1425,NPM
+1426,Jest
+1427,Functional Programming
+1431,Webpack
+1432,Ruby
+1435,Babel
+1436,OOP
+1445,SFTP
+1455,IDMS
+1457,Exploratory Data Analysis
+1461,Hypothesis Testing
+1465,Variance Analysis
+1466,Pig
+1471,Economic Modeling
+1472,XML
+1473,MicroStrategy
+1474,Impala
+1479,PL/SQL
+1480,DB2
+1481,Great Plains
+1482,QuickBooks
+1484,KPI Development
+1490,Systems Operations
+1494,Collibra
+1495,Twilio
+1500,Data Mapping
+1502,ServiceNow
+1517,DOMO
+1524,Report Development
+1527,Statistical Programming
+1528,Sampling
+1529,CA DMHC TAR requirements
+1531,HEDIS
+1533,BusinessObjects
+1536,SharePoint
+1541,GIS Software
+1544,Columnar Databases
+1558,Data Integrity
+1559,CMDB
+1560,Data Migration
+1561,Data Ingestion
+1563,Application Portfolio Management
+1570,UI Design
+1572,UX Design
+1585,Electronic Medical Record Navigation
+1586,Data abstraction
+1587,Public reporting systems
+1592,AWS RDS
+1593,Unit Testing
+1597,Static Analysis
+1601,AWS Lambda
+1602,Real-time Streaming
+1603,Amazon Redshift
+1605,AWS DynamoDB
+1608,Continuous Integration
+1609,Automated Integration Tests
+1613,ARGOS
+1615,BANNER
+1620,SAP
+1627,MS SharePoint
+1628,Sam's Club Madrid
+1630,Walmart Retail Link
+1646,Mode
+1650,Airflow
+1651,Innovaccer
+1653,Medical Claims Analytics
+1656,MS SQL
+1665,COBOL
+1666,Informatica
+1668,Mainframe
+1676,Anaconda
+1679,Teradata
+1687,Medrio
+1688,OpenClinica
+1691,InForm
+1692,RAVE
+1694,RedCap
+1701,MATLAB
+1703,Visual Basic
+1704,Data Science
+1705,Workflow Analysis
+1707,Information Classification
+1708,Gap Analysis
+1709,Business Analysis
+1713,System Documentation
+1715,Data Presentation
+1717,Functional Requirements Analysis
+1718,Business Process Analysis
+1721,Explanatory Data Analysis
+1724,Requirements Analysis
+1726,Scientific Method
+1731,BI Technologies
+1733,Version Control
+1734,Microsoft Teams
+1740,Microsoft Outlook
+1741,Business Objects
+1752,Birst
+1758,Oracle Database
+1764,Dataiku
+1782,Fivetran
+1787,Rakuten
+1788,Skimlinks
+1789,Amazon Associates
+1797,Information Governance
+1800,Database Schema Design
+1801,SQL Performance Tuning
+1810,Cloudera
+1816,Qlik
+1818,KNIME
+1822,IBM SPSS
+1824,Talend
+1830,SSIS
+1838,Source to Target Mapping
+1840,Azure DevOps Boards
+1843,DBVisualizer
+1847,SSMS
+1848,ETL Mapping
+1850,Financial Modeling
+1852,eFront
+1857,Adobe Acrobat
+1861,Epic EMR
+1869,SSAS
+1875,Alteryx
+1876,Neural Networks
+1879,Decision Tree
+1880,ER Diagrams
+1881,Data Flow Diagrams
+1890,Requirement Analysis
+1891,Tableau Prep
+1895,Classification
+1897,CPT codes
+1898,Diagnosis codes
+1900,HCPCS
+1901,DRG codes
+1905,CSV
+1910,Sigma
+1917,Sensitivity Analysis
+1930,Root Cause Analysis
+1932,Scenario Analysis
+1963,ETL Frameworks
+1971,Segmentation Techniques
+1974,Large Data Sets
+1989,API
+1991,Cloud Technologies
+1995,IBM Rational Tools
+1997,Six Sigma
+2002,Waterfall
+2003,Retail Math
+2005,Access
+2010,Epic
+2013,Neuroimaging analysis
+2015,Cohort Discovery Tool
+2017,Linux
+2020,Database management
+2021,Stata
+2022,Statistical analysis
+2023,REDCap
+2024,Postman
+2026,Selenium
+2027,DataDog
+2028,C
+2029,Kubernetes
+2032,Dynatrace
+2033,Jenkins
+2039,Grafana
+2040,Docker
+2042,Multi-variate Testing
+2057,HIE
+2058,MSSQL
+2059,HCC
+2060,EDI
+2061,CCS
+2063,EHR
+2064,STARS
+2069,PBM
+2074,Search Engines
+2075,Online Maps
+2080,Power Automate
+2081,JIRA
+2083,Confluence
+2086,Marketo
+2090,CRM
+2093,Pardot
+2095,Hubspot
+2097,Data Normalization
+2099,Data Segmentation
+2101,KPI Tracking
+2102,Genesis
+2105,Aspect eWFM
+2106,NICE IEX
+2107,ACD
+2108,Workforce Management
+2110,Performance Monitoring
+2113,Optimization
+2115,Design of Experiment
+2116,Segmentation
+2117,Advanced Analytics
+2118,Prescriptive Analytics
+2119,Modeling
+2120,Go
+2126,Matillion
+2127,Scrum
+2132,SQL Server Integration Services
+2134,Kimball Methodology
+2136,CI/CD
+2167,Julia
+2180,Big Data Analytics
+2181,Matplotlib
+2185,Apache Mahout
+2193,Plotly
+2197,TDD
+2199,Boomi
+2200,Web Services
+2201,file transfer
+2202,PowerQuery
+2203,Spring Batch
+2205,Service Oriented Architecture
+2210,Powershell
+2230,Relational Database Theory
+2235,Social Network Analysis
+2242,Mathematical Modeling
+2246,Epidemiological Analysis
+2254,Caboodle
+2257,Descriptive Statistics
+2261,Random Forest
+2262,dplyr
+2265,Inferential Statistics
+2267,Scikit-learn
+2268,PyCaret
+2269,Unidash
+2271,SciPy
+2277,Survival Analysis
+2281,Stochastic Modeling
+2282,Time Series Analysis
+2283,Support Vector Machine
+2286,SQL DBA
+2291,Data Warehouse
+2302,Macros
+2327,STATA
+2337,Tealium
+2340,Optimizely
+2342,Tagging
+2347,GCP BigData
+2348,Splunk
+2357,E&M Codes
+2358,Flat Files
+2359,Data Merging
+2360,Vizient
+2361,ICD Codes
+2363,Google Cloud Platform
+2365,G Suite
+2367,DRG Codes
+2373,Spreadsheet Software
+2381,LMS
+2383,REST API
+2386,Veracity LRS
+2388,LRS
+2390,xAPI
+2392,Lookup Functions
+2403,Sisense
+2410,MS Azure Data Bricks
+2413,MS SQL Server
+2417,Requirements Gathering
+2420,SDLC
+2422,Systems Architecture
+2424,BI Reporting
+2430,SQL Profiler
+2432,Microsoft Office Suite
+2433,Triggers
+2438,SOA
+2439,Views
+2440,SQL Server Reporting Services (SSRS)
+2443,ASP.NET
+2449,Moodle
+2450,TracCloud
+2451,Slate
+2455,Ellucian Banner
+2456,Evisions Argos
+2457,Firebase
+2458,GA4
+2477,Reverse ETL
+2480,Census
+2483,Data Pipelining
+2489,Workflow Configuration
+2490,Metamodels
+2491,Groovy Scripting
+2494,Data Dictionaries
+2496,Dashboard Design
+2497,Business Glossaries
+2498,Data Lineage
+2500,APIs
+2504,Integration Testing
+2506,GS1 GDSN
+2507,Superset
+2511,End-to-End Testing
+2513,PIM
+2523,Microsoft Project
+2525,XSLT
+2526,Conduent/HSP Claims Processing System
+2527,EDI X12
+2528,Perl
+2530,IBM GenTran
+2531,Optum Transaction Validation Manager
+2534,IBM Transformation Extender Advanced
+2535,IBM JCL
+2539,Master Data Management
+2540,Data Transfer
+2558,IBM DB2
+2562,Medical Coding
+2563,DMHRSi
+2564,MEPRS
+2566,Data Import
+2567,Performance Analysis
+2569,M2 File
+2570,Business Case Analysis
+2571,ICD-9
+2573,HCPS
+2575,Comparative Analysis
+2577,CPT
+2578,ICD-10
+2582,Data Table Structures
+2583,Decision Support
+2584,CHCS
+2585,Outcomes Analysis
+2586,ROI Analysis
+2596,QA Testing
+2597,Project Management
+2598,AS400
+2601,Essbase
+2602,EDW
+2608,ORMIS
+2618,Database Creation
+2620,Financial Reporting
+2626,Gradient Boosting
+2631,BIM360
+2635,DoubleClick for Publishers
+2644,Data Blending
+2650,Test Design
+2653,People Analytics
+2658,Data Warehouses
+2659,Data Visualization Tools
+2662,Flow cytometry
+2663,FlowJo
+2664,FCS Express
+2665,OMIQ Analysis Platform
+2666,Blue Yonder (JDA) TMS
+2667,Operations Research
+2670,Time Studies
+2674,Lean Manufacturing Principles
+2680,Alteryx Designer
+2681,Alteryx Server
+2684,AWS Quicksight
+2697,SEO
+2698,MS Office Suite
+2709,Database Structures
+2719,Business Intelligence Tools
+2721,Query Tuning
+2723,Statistical Tools
+2728,Entity Relationship Diagrams
+2731,Programming Languages
+2735,Artificial Intelligence
+2740,Anaplan
+2743,Ultramain
+2753,Schedulers
+2758,Git
+2759,Production Systems
+2760,Shell Scripting
+2761,Analytical Solution Development
+2762,Reporting Tools
+2773,ERP
+2777,GCP
+2796,Descriptive Statistical Methods
+2798,Exploratory Analysis
+2810,Heap.io
+2815,Data Processing
+2834,Research Methods
+2837,Data Sourcing
+2838,Storyboarding
+2840,Tableau Server
+2847,Adobe Analytics
+2848,Multivariate testing
+2860,Business Requirements Gathering
+2868,Database Development
+2875,Data Lake
+2886,SQL Query Optimization
+2894,Probabilistic Modeling
+2906,Business Intelligence (BI)
+2909,Exploratory Data Analysis (EDA)
+2917,Multitouch Attribution (MTA)
+2922,Media Mix Models (MMM)
+2923,Data manipulation techniques
+2924,Advanced analytic techniques
+2927,Microsoft Office 365
+2932,Smartsheet
+2935,Data Verification
+2943,Synapse
+2954,Healthcare Informatics Analysis
+2955,Advanced Database Concepts
+2965,Microsoft Power BI
+2966,Microsoft Power Platform
+2967,Azure Integration Runtime
+2970,Azure SQL Database
+2973,Microsoft Report Builder
+2978,Crystal Reports
+2982,Prism Analytics
+2983,Workday Enterprise Reporting and Analysis
+2989,Workday Reporting
+2991,ACL
+2998,Power Pivot
+3005,Dynamics GP
+3009,Dynamics CRM
+3012,Microsoft Lists
+3020,Power Apps
+3028,Multivariate Testing
+3038,Experimentation
+3039,Data Science Modeling
+3049,Data Acquisition
+3050,Data Review
+3051,Descriptive Analytics
+3053,Diagnostic Analytics
+3055,Dataflow
+3067,Relational Database Management Systems
+3068,Information Analyzer
+3071,Erwin
+3072,IBM Data Architect
+3075,Informatica Data Quality
+3085,INDEX MATCH
+3087,Microsoft
+3088,Informer
+3093,NetSuite
+3120,Workfront
+3122,AI/ML Models
+3144,Django
+3172,Webex
+3176,Plotly Dash
+3180,R Shiny
+3181,Statistical methodologies
+3199,Matlab
+3216,Unix
+3222,Lucidchart
+3224,Aurora DB
+3228,MariaDB
+3242,SQL Server Management Studio
+3267,Kafka
+3279,Zoom
+3288,Elasticsearch
+3294,Salesforce Datorama
+3301,Apache Spark
+3316,Cognos
+3317,ERWin
+3338,GitHub
+3346,MMIT
+3347,IMS/IQVIA
+3349,Evaluate Pharma
+3350,Symphony Health
+3352,SAP Sales & Distribution
+3354,BOBJ
+3359,Data Studio
+3366,Data Exploration
+3369,Data Warehouse Design
+3370,ERD
+3371,DFD
+3372,Data Investigation
+3374,Data Catalog
+3380,Data Discovery
+3463,MS Access
+3476,scikit-learn
+3489,PHP
+3505,Spring
+3523,Flow
+3534,Microsoft Power Automate
+3564,Thoughtspot
+3617,Rust
+3664,Improvado
+3665,Google Tag Manager
+3667,HubSpot
+3668,Medallia
+3687,Swift
+3691,Sheets
+3697,Express
+3701,Clarity
+3704,Visio
+3716,Terraform
+3739,Watson
+3752,Microsoft PowerBI
+3844,Jupyter
+3846,IBM Cloud
+3855,Apache Airflow
+3968,Spreadsheets
+3999,Angular
+4020,Causal
+4021,Xero
+4037,Apache Kafka
+4043,Tibco Spotfire
+4060,Unix Scripting
+4062,SQL Data Warehouse
+4063,Data Loading
+4071,Application Analysis
+4086,TensorFlow
+4138,shell
+4175,Geospatial Analysis
+4177,Data Design
+4178,Risk Adjustment
+4180,Medicare Star Rating System
+4181,QRS
+4183,Report Automation
+4184,Reimbursement Analysis
+4185,Utilization Management
+4190,Provider Contracts
+4195,Claims Payment
+4197,NCQA
+4287,Salesforce Marketing Cloud
+4289,Salesforce CRM
+4290,Adobe Customer Journey Analytics
+4298,CDP
+4302,Adobe Experience Platform
+4335,AWS Data Lake
+4336,Datamart
+4338,Dimensional Modeling
+4339,PowerApps
+4346,State-Space Models
+4347,Telemetry Data Processing
+4349,Species Distribution Models
+4365,Claims Pricing
+4369,Root-cause Analysis
+4371,Network Analysis
+4372,Contract Analysis
+4373,ROI Evaluation
+4378,Graph Databases
+4380,Presto
+4403,Shell
+4425,Facets
+4427,Amisys
+4464,Architecture
+4471,DLP
+4482,Notion
+4486,TestDirector
+4564,Assembly
+4598,Terminal
+4650,TM1
+4651,D365
+4656,Pillar
+4658,Hyperion
+4661,CAD
+4674,Dynamics 365
+4680,Dimensional modelling
+4681,Data Vault modelling
+4684,ER modelling
+4698,Bash
+4700,PowerShell
+4710,Microsoft SharePoint
+4717,SAFe
+4727,Windows
+4834,macOS
+4871,Test Director application
+4931,GitLab
+4934,Project Planning
+4935,Business Process Modeling
+4936,Scope Management
+4942,Business Process Improvement
+4943,Systems Analysis
+4955,GDPR
+4972,Material Requirements Planning (MRP)
+4973,Product Lifecycle Management (PLM)
+4974,Lean/Six Sigma
+4975,JD Edwards (JDE)
+4976,Product Information Management (PIM)
+4978,Freshworks
+4979,ASCM (APICS)
+4981,PIMCORE
+4983,Digital Asset Management (DAM)
+4990,VB.NET
+5049,ggplot2
+5058,Vue
+5085,Data Analysis Software
+5087,Statistical Software
+5089,Data Collection Systems
+5091,Spreadsheet
+5100,Statistical Testing
+5101,caret
+5103,Cloud
+5107,numpy
+5108,Minerva
+5113,pandas
+5116,scipy
+5124,Crystal
+5188,nVision
+5189,PeopleSoft Query
+5207,FSD
+5209,Use Case Development
+5210,UAT
+5212,TRD
+5214,User Stories
+5215,BRD
+5220,Test Cases
+5222,Product Backlog
+5248,BI
+5250,Data management
+5266,Planner
+5329,Google Earth
+5330,MS Office
+5331,Google Maps
+5388,Querying
+5391,Sentiment Analysis
+5432,Database design
+5434,Amazon Quicksight
+5436,Load testing
+5438,Data migration
+5441,Disaster recovery
+5442,Backup and restore
+5443,Performance tuning
+5508,ETL processes
+5566,Netsuite
+5573,Metric Creation
+5617,VMware
+5619,Puppet
+5736,Bitbucket
+5746,Chef
+5772,AppScript
+5793,Keras
+5800,PyTorch
+5808,Seaborn
+5811,IBM Watson
+5872,Jupyter Notebooks
+5877,AWS Athena
+5908,PeopleSoft
+5913,Grooper
+5915,UiPath
+5917,Planning Analytics
+5918,Enverus
+5921,WellView
+5923,ProCount
+5927,WLM
+5928,IHS
+5930,eGIS
+5937,Managed File Transfer (MFT)
+5938,Data Item Description (DID)
+5939,PLM
+5940,Teamcenter
+5943,CDRL
+5944,DoD Safe
+5945,Data Acquisition Document Number
+5946,DD-1423
+6034,databricks
+6035,airflow
+6036,firebase
+6054,Javascript
+6084,Slack
+6087,Dune Analytics
+6159,AQT
+6167,Statistical modeling
+6202,QARR
+6377,ESP
+6380,Iterable
+6463,Microsoft Planner
+6624,Trello
+6875,Vue.js
+6990,React.js
+7018,Solidity
+7022,Golang
+7145,IBM Cognos
+7226,Dashboard
+7232,Constant Contact
+7234,Mailchimp
+7238,Email Marketing Analytics
+7239,Biotechnology
+7245,Looker Studio
+7271,Queries
+7274,Machine Learning Algorithms
+7280,Qualitative Research
+7281,ATLAS.ti
+7286,Marketing Analytics
+7287,Product Analytics
+7288,Sales Analytics
+7289,Operations Analytics
+7294,Multinomial Logistic Regression
+7295,Poisson Regression
+7297,Logistic Regression
+7309,Financial Analysis
+7310,CAC Analysis
+7311,CLV Analysis
+7312,Market Size Analysis
+7328,AnyLogic
+7330,Data extraction
+7332,Data Pipeline
+7333,Data scraping
+7360,Supermetrics
+7377,Predicting Modeling
+7385,Amazon Web Services
+7386,Logging and Monitoring
+7387,Incident Response
+7388,Vulnerability Management
+7389,WordPress
+7391,Amazon SP-API
+7392,Data Retention
+7393,Credential Management
+7395,Encryption
+7406,Google Analytics API
+7409,Academic Writing
+7413,NVivo
+7427,Amazon PPC
+7446,Data Cleanup
+7448,Analytical Presentation
+7451,Human Resources Analytics
+7461,KPI Analysis
+7464,Databox
+7472,Market Analysis
+7478,Forex Trading
+7479,Cryptocurrency Markets
+7480,Algorithm Development
+7482,Blockchain Technology
+7489,AdWords
+7492,Heap
+7493,Segment
+7504,AWS QuickSight
+7559,Linear Regression
+7568,CoLab
+7590,Klaviyo
+7592,eCommerce Marketing
+7593,Competitor Analysis
+7594,Google Ads
+7597,Creative Strategy Analysis
+7598,Meta Ads
+7605,Google AdWords
+7607,MixPanel
+7617,Inventory Management
+7620,Amazon FBA
+7635,Growth Analytics
+7646,Data Analysis Consultation
+7664,Competitive Analysis
+7666,Market Research
+7697,Accounting
+7709,Biostatistics
+7712,Deep Learning
+7714,Economic Analysis
+7716,Econometrics
+7721,Survey Data Analysis
+7722,Correlation Analysis
+7738,Data Scraping
+7745,Ensemble Modeling
+7821,Social Listening
+7825,Object-Oriented Programming
+7826,Natural Language Processing
+7836,Topic Tagging
+7838,NLP
+7886,Shopify
+7894,Site Analytics
+7895,Brand Lifts
+7896,MMM
+7897,MTA
+7898,MMT
+7915,File Mapping
+7916,MS Visio
+7921,Draw.io
+7926,Lifecycle Segmentation
+7927,Customer Behavior Modeling
+7930,Amperity
+7931,Web Analytics Platforms
+7932,CRM Data Analysis
+7939,Sage X3
+7941,Lucid
+7959,Amazon QuickSight
+7982,HRIS
+7990,Funnel.io
+8024,BI Software
+8025,Reporting Automation
+8027,QA Pixel Tracking
+8036,Event Tracking
+8047,Custody
+8048,Securities
+8049,Transfer Agency
+8050,Clearing & Settlement
+8051,Corporate Actions
+8052,Securities Services
+8056,Securities Lending
+8059,Client Reporting
+8061,Data Quality Analysis
+8063,Market Data Feeds
+8079,EPIC Reporting Workbench
+8080,SAP HANA
+8085,EPIC Cogito
+8090,EPIC Slicer Dicer
+8095,SAP Reporting Analytics
+8097,SAP SuccessFactors Recruiting Module
+8098,SAP S4
+8121,Generative AI
+8127,Data Quality Control
+8139,ITIL
+8150,DevSecOps
+8162,MS Power Platform
+8170,Spatial Data Analysis
+8174,Dataflow Streaming
+8186,Amazon Kinesis
+8190,Apache Dataflow
+8192,Delta Lake
+8202,Data Streaming
+8208,Count
+8209,Lightdash
+8219,Predictive Analytics
+8228,Azure Data Lake
+8231,Microsoft Fabric
+8239,Purview
+8240,Azure Cognitive Services
+8241,STTM Creation
+8248,Change Management
+8251,RPA
+8256,Kanban
+8259,Salesforce Data Cloud
+8263,Stardog
+8264,Knowledge Graphs
+8267,Signavio
+8272,Amazon Neptune
+8277,Ariba
+8283,Celonis
+8284,WPS Office
+8285,MARS System
+8287,Networking
+8303,Forecasting Models
+8304,Measurement Strategy
+8313,Calculus
+8316,Non-Relational Databases
+8319,Visualization
+8324,Metrics Development
+8335,Attribution modeling
+8336,Database modeling
+8337,AB testing
+8338,Machine learning models
+8342,Causal inference
+8356,Oracle FLEXCUBE
+8382,Esri Business Analyst
+8383,Carto
+8393,Business Requirements
+8395,Product Management
+8396,Workflow Design
+8397,Process Modeling
+8399,Use Cases
+8406,KPI Definition
+8422,GDPR Compliance
+8456,Infrastructure-as-Code
+8459,AWS CDK
+8463,Database Performance Tuning
+8469,DAD
+8474,DDL
+8477,API Key Authentication
+8483,Google Dataflow
+8484,VS Code
+8490,Python Flask
+8493,HTTP Basic Authentication
+8496,Google Dataprep
+8501,Google Suite
+8505,OAuth
+8511,LLM
+8516,OBIEE
+8528,Deltek
+8531,On-premises Data Warehouse
+8536,Vena
+8542,Attribution Modeling
+8548,Analytics Tracking
+8552,AWS Connect
+8567,Infrastructure-as-code
+8581,Data Profiling Tools
+8601,M Language
+8610,Hogan Systems
+8615,Predictive modeling
+8642,Frontend Development
+8643,MRP
+8645,ORM
+8646,SVN
+8661,Matching Models
+8667,Difference-in-Differences
+8672,Matching Model
+8673,Split Testing
+8701,Azure Data Explorer
+8709,Copilot
+8710,Kusto
+8724,Hypothesis testing
+8727,Prompt Engineering
+8732,Marketing technology stacks
+8734,ML
+8736,Windsurf
+8749,A/B/n Testing
+8779,Data Storytelling
+8817,Marketing Mix Modeling
+8818,Marketing KPIs
+8828,Multi-touch Funnel Analysis
+8847,Claims Data Analysis
+8848,Value-based Care
+8855,Power Platform
+8902,Data ingestion
+8905,Browser-based tracking
+8906,Server-side tracking
+8907,Pixels
+8909,Elevar
+8910,Web hooks
+8911,Data instrumentation
+8912,Data warehouse management
+8913,Data integration (secondary marketplaces)
+8919,QuickSight
+8925,Plx
+8933,Kibana
+8934,GraphQL
+8939,Datadog
+8956,Synthetic Controls
+8959,Multi-armed Bandit
+8974,Cloud Data Infrastructure
+8978,AWS Cost Explorer
+8983,AWS Certified Cloud Practitioner
+8984,AWS Cost Management tools
+8992,Cloud billing systems
+9012,Adaptive Insights
+9020,SiSense
+9033,AI-driven analytics
+9071,Statistical methods
+9079,Google Looker Studio
+9095,Google Analytics 4
+9129,TXT
+9141,Autonomous Agents
+9147,User Personalization Solutions Models
+9148,Data Warehousing Concepts
+9150,Apache Drill
+9152,BI Solutions Design
+9157,Probability
+9158,Apache Hive
+9172,DynamoDB
+9186,SITS
+9249,Churn Modeling
+9250,CLTV Modeling
+9251,Predictive Analysis
+9253,Advanced Data Analysis
+9254,Behavioral Analytics
+9264,User Segmentation
+9277,Object-oriented Programming
+9304,Survey Analysis
+9315,Data Documentation
+9316,Oracle Databases
+9341,Calero
+9345,Elastic
+9350,Enterprise Databases
+9357,Google BigQuery ML
+9366,ODBC
+9381,Source-to-target Mapping
+9391,JMP
+9393,M-Code
+9394,Minitab
+9395,Control Charting
+9398,Statistical Process Control
+9407,Regression Modeling
+9409,Causal Inference
+9412,Functional Specification
+9448,Aliyun
+9450,Tencent Cloud
+9455,Flink
+9466,Data Batch Processing
+9491,AppScripts
+9495,API Integrations
+9509,Microsoft Power Query
+9518,Listrak
+9520,Cluster Analysis
+9526,Retail Analytics
+9527,BazaarVoice
+9535,Yext
+9540,Omnichannel Analytics
+9541,Netezza
+9548,IBM Business Objects
+9553,UTM Tracking
+9554,Facebook Ads
+9561,Bing Ads
+9567,Incrementality Testing
+9571,Conversion Funnel Analysis
+9594,Facebook Analytics
+9598,Presentation Design
+9599,Website Analytics
+9601,Social Analytics
+9602,Instagram Analytics
+9603,TikTok Analytics
+9605,Sprinklr
+9606,YouTube Analytics
+9607,Quid
+9609,X Analytics
+9610,Threads Analytics
+9618,Amazon S3
+9619,Amazon EMR
+9620,Amazon Aurora
+9626,AWS CloudWatch
+9632,OSMIS
+9634,LOGSA
+9635,GFEBS
+9636,ODS
+9638,Probe
+9639,DTS
+9640,AWS EMR
+9645,Real-time Data Processing
+9646,SQL Server Analysis Services (SSAS)
+9647,AWS Aurora
+9650,Confluent Kafka
+9651,Batch Data Processing
+9655,Cloud Migration
+9656,Event-Driven Architecture
+9662,Workflow Automation
+9667,DOD Acquisition Process
+9670,DOTMLPF-P
+9673,PPBE Process
+9676,JCIDS
+9688,API calls
+9690,BI tools
+9694,SAS Enterprise Guide
+9699,SparkR
+9700,Spark SQL
+9726,Simulations
+9729,Data Fusion
+9730,Statistical Evaluation
+9741,PowerSchool
+9759,HIPAA
+9763,HDFS
+9767,Apache Flink
+9770,Apache Storm
+9806,SAP BW
+9830,CRM Platforms
+9835,Lifecycle Automation Tools
+9946,Relational Data Modeling
+9977,SAP BusinessObjects BI4
+9991,WebSocket API
+10007,DataGalaxy
+10011,Data Security
+10015,GIS tools
+10035,Agile Methodologies
+10036,DV360
+10049,ADF
+10060,IDMC
+10082,ETMS2
+10085,SharePoint Online
+10092,Time-Series Analysis
+10094,UI/UX Design
+10103,Fabric
+10111,UI/UX Design principles
+10119,Multidimensional Databases
+10124,SAP Business Objects
+10125,Epic Caboodle
+10126,Epic SlicerDicer
+10127,Quality Assurance
+10128,Database Architecture
+10132,Oracle BI
+10165,Time-series Analysis
+10193,Cloud Computing
+10194,Cloud Storage
+10216,Experimentation Frameworks
+10224,Analytical skills
+10233,Cloud Data Warehouse
+10234,ETL/ELT Pipelines
+10238,Financial Systems
+10244,Billing Systems
+10245,ERPs
+10254,Development Processes
+10255,Code Reviews
+10257,Engineering Standards
+10258,Self-service Tooling
+10277,Ad-hoc Reporting
+10278,Access Management
+10285,Application Testing
+10286,CMMS
+10289,System Troubleshooting
+10290,Management of Change (MOC)
+10293,Microsoft Field Service Management
+10295,SAP PM
+10309,AI Agents
+10350,Data Monitoring
+10351,Data Anomaly Detection
+10400,Large Dataset Manipulation
+10408,Metrics
+10417,Technical Support
+10419,Ad-hoc Data Requests
+10423,Data Pipeline Operations
+10428,Data Structures Management
+10430,SAP PM Module
+10433,Ad-hoc Analysis
+10458,AI agents
+10507,Product Experimentation
+10509,Product Analytics Platforms
+10565,AI (script generation)
+10579,Advanced Analytics Platforms
+10591,Stata SE
+10592,Econometric Modeling
+10594,Panel Data Analysis
+10595,Stata do-files
+10597,Analysis Automation
+10598,Reproducible Research
+10600,Technical Reporting
+10604,Ethical Data Handling
+10607,Large Dataset Optimization
+10610,Technical Presentations
+10617,AI Tools
+10649,Data Instrumentation
+10662,Statistical Knowledge
+10675,Field Service Management
+10681,MOC Process
+10683,Pipeline Operations
+10686,Database Concepts
+10717,Palantir
+10754,BI Development
+10762,Application Integration
+10796,Data Workflows
+10804,Distributed Systems
+10811,Data Issue Management
+10814,Working with Large Datasets
+10815,Spreadsheet Analysis
+10817,Writing Data Quality Rules
+10819,Insurance Industry Knowledge
+10821,OpenAI
+10822,Palantir Foundry
+10823,Hugging Face
+10824,Azure OpenAI
+10828,Classification Taxonomies
+10830,Labeling Frameworks
+10831,Tagging Schemas
+10836,Workflows
+10839,Algorithmic Approaches
+10843,Software Development Workflows
+10846,Data Enrichment
+10870,Data Concepts
+10875,KPI Monitoring
+10879,LookML
+10887,Statistical Principles
+10888,Apache Superset
+10889,User Behavior Analysis
+10893,Customer Acquisition Cost (CAC)
+10894,Campaign Effectiveness Analysis
+10896,Lifetime Value (LTV)
+10904,Operational analytics
+10905,ARO
+10906,CM
+10907,Healthcare revenue cycle
+10912,Benchmark Analysis
+10914,Marketing Analysis
+10915,Cost-Benefit Analysis
+10927,ERP Data
+10943,Table Structures
+10944,Data Relationships
+10947,Data Joining
+10950,Data Pipeline Processes
+10963,Data manipulation
+10993,Visual Design
+10998,OSINT (Open Source Intelligence)
+11005,Structured Data Handling
+11007,Unstructured Data Handling
+11010,Risk Taxonomies
+11011,Information Design
+11012,Adobe Illustrator
+11013,Figma
+11019,Streaming Data Frameworks
+11023,Query Optimization
+11028,Omni
+11031,Data Structuring
+11034,Semantic Layers
+11035,Self-service Analytics
+11036,Analytics Engineering
+11044,Metrics Reporting
+11045,Excel Formulas
+11048,AML/KYC
+11050,Due Diligence
+11056,Process Mapping
+11073,Supply Chain
+11076,IBP
+11078,SAP MRP
+11082,Data Trending
+11085,Process Improvement
+11086,Continued Process Verification (CPV)
+11087,Data Optimization
+11088,Ad hoc Data Requests
+11089,Dashboard Creation
+11092,Data Architecture Optimization
+11094,Bioinformatics
+11113,Performance Tuning
+11115,WMS
+11117,Epicor P21
+11127,Excel Modeling
+11132,Financial Forecasting
+11134,Monte Carlo Analysis
+11135,Data Benchmarking
+11147,Logical Data Design
+11148,Data Conversion
+11167,Web analytics
+11168,User behavior tracking
+11169,HR analytics
+11170,Hiring funnels
+11171,Recruitment metrics
+11172,Campaign analysis
+11173,Marketing attribution
+11174,Marketplace analytics
+11175,SaaS analytics
+11176,Platform performance analysis
+11177,Data collection optimization
+11178,User behavior analysis
+11179,Market trend analysis
+11188,QuickSuite
+11193,UI/UX
+11201,DSP
+11202,Ad-tech
+11203,SSP
+11215,Ad Hoc Reporting
+11216,Data Organization
+11217,Data Compilation
+11269,Text Analytics
+11271,Customer Sentiment Modeling
+11276,TMS
+11280,Automated Reporting
+11305,Data Products
+11306,Streamlit
+11330,Capital Modeling
+11358,Financial Statements
+11360,Investment Data
+11361,Financial Metrics
+11364,Bloomberg
+11366,FactSet
+11367,Morningstar
+11369,SAP Finance
+11385,Issue Tracking Tools
+11390,tidyverse
+11391,stringr
+11393,Numpy
+11413,Data Definition
+11421,Data Flows
+11422,Master Data Governance
+11424,System Integration
+11427,MDM Tools
+11428,Fuzzy Matching
+11429,Supply Chain Tools
+11431,Inventory Tools
+11432,Master Data Hierarchy Definition
+11433,Cloud Operations
+11439,Dashboarding Software
+11442,GitHub Actions
+11443,KDB
+11486,Oracle SQL Developer
+11498,Data Classification
+11503,Database Troubleshooting
+11504,Database Tuning
+11505,Research
+11515,E-commerce Analytics
+11516,Multivariate Experiments
+11518,E-commerce KPIs
+11519,Digital Marketing Metrics
+11520,Customer Lifecycle Measurement
+11522,Digital Product Analytics
+11523,mParticle
+11526,Google Analytics 4 (GA4)
+11527,Cloud Data Warehousing
+11528,Privacy-First Measurement
+11529,First-Party Data Strategies
+11530,Consent Management
+11535,AI-assisted Analytics
+11538,Personalization
+11539,Recommendation Systems
+11540,Server-Side Tracking
+11541,Event Schemas
+11543,Data Contracts
+11558,Metrics Tracking
+11562,Shiny
+11570,A/B Experimentation
+11573,Business Reporting
+11578,Strategic Analysis
+11581,Matched Pair Analysis
+11583,Conversion Rate Optimization
+11604,Graph Query Languages
+11607,Client-Server Architecture
+11620,ETL Tools
+11623,BI/Reporting
+11627,Software Development Methodologies
+11628,Analytic Models
+11635,Time-series Data Analysis
+11640,Database schemas
+11643,Data processing
+11648,Quicksight
+11650,Healthcare data
+11651,HIPAA compliance
+11652,Pharmacy data
+11672,Operational Analysis
+11702,Web Tagging
+11744,Snowflake Schema
+11745,Star Schema
+11747,Database Queries
+11760,Contract Management
+11762,Cost Savings Analysis
+11763,Expense Allocation
+11765,Large Data Set Analysis
+11766,Risk Management
+11767,Storytelling with Data
+11768,Broker/Dealer Activities
+11769,Core Banking Products
+11771,Vendor Management System
+11775,FTP
+11784,Integration
+11785,Metadata
+11794,Database Support
+11800,ARIMA
+11803,Text Preprocessing (Stemming)
+11804,Named Entity Recognition
+11808,TF-IDF
+11813,Performance Optimization
+11814,Time-series Forecasting
+11816,Geospatial Analytics
+11817,Distributed Computing
+11819,LLMs
+11829,Feature Development
+11835,Martech
+11837,Model Evaluation
+11898,Threat Detection
+11899,Advana
+11903,Data Evaluation
+11912,Research Methodology
+11917,Remedy
+11918,NICE
+11919,IVR
+11921,Microsoft SQL Server Management Studio
+11926,Google Workspace
+11942,Spatial Mapping
+11945,Spatial Analysis
+11966,Advanced Formulas
+11972,Quantitative methods
+11973,Software development principles
+11974,Software architecture
+11975,Relational databases
+11995,Data quality
+11997,Reporting frameworks
+11998,Data insights
+12001,Access control
+12002,Data catalog development
+12003,Technical specifications
+12019,Business Central
+12027,MCode
+12038,GenAI
+12039,Digital advertising or media analytics
+12041,Flask
+12083,Reporting Platforms
+12084,Real-time Monitoring
+12085,Data Interfaces
+12087,Industrial Automation
+12092,Manufacturing IT
+12093,Backend Development
+12094,Software Design
+12095,Software Deployment
+12097,Industry 4.0
+12098,Smart Manufacturing
+12099,Ignition
+12106,BI Platforms
+12109,Requirements Definition
+12114,Data Gathering
+12127,Impact Analysis
+12149,Data Pipeline Optimization
+12174,GitHub Copilot
+12176,Claude Code
+12192,Multivariate Regression
+12194,Pendo
+12224,DORA
+12232,Google Gemini
+12233,DALL·E
+12234,Midjourney
+12237,Conditional Formatting
+12246,Business reporting
+12247,Knime
+12263,RLS
+12270,SQL Functions
+12275,Code Review
+12276,BI Solutions
+12279,Automated Testing
+12280,Microsoft PowerApps
+12283,Common Data Service
+12287,Data Requirements Analysis
+12289,BRD creation
+12291,Compliance Reporting
+12292,FRD creation
+12293,Risk Assessments
+12294,Regulatory Reporting
+12299,Functional Testing
+12305,Actimize AML
+12306,Actimize SAM
+12308,Behavioral Modeling
+12310,Model Tuning
+12311,AML Detection Algorithms
+12312,Transaction Monitoring
+12313,Fraud Prevention
+12314,Financial Risk Management
+12315,BSA
+12316,KYC
+12317,Financial Crime Compliance
+12318,AML
+12319,USA PATRIOT Act
+12320,OFAC
+12321,Basel III
+12322,FATF
+12323,SWIFT
+12324,Dodd-Frank
+12325,ISO 20022
+12326,ACH
+12327,Fedwire
+12328,Digital Payments
+12369,Athena
+12370,Accounting Close Management
+12371,Accounting Principles
+12372,Chart of Accounts Management
+12376,Defect Management
+12378,Financial Reconciliations
+12382,SAP Accounting Systems
+12384,Test Documentation
+12386,UAT Execution
+12387,Test Planning
+12388,Oracle ERP
+12389,SAP S/4HANA
+12414,HQL
+12421,Data Administration
+12424,Information Assurance
+12430,Experimentation Analysis
+12431,Metric Design
+12432,GPT Models
+12434,Gemini
+12436,Automated Workflows
+12438,Cost Analysis
+12439,Cost Accounting
+12444,Inventory Analysis
+12454,Ratio Analysis
+12456,Regression Models
+12460,Statsmodels
+12462,Time-Series Models
+12466,SAP CO
+12468,SAP FI
+12469,SAP MM
+12475,PowerCenter
+12478,ETL Testing
+12479,Command Line Interface
+12480,Linux Administration
+12481,Regulated Data Systems
+12482,Audit-sensitive Data Systems
+12483,Cloud Environments
+12484,Informatica Cloud
+12485,Informatica IDMC
+12498,GeoPandas
+12499,MapBox
+12514,Workflow Optimization
+12528,Modbus Protocols
+12529,BMS Systems
+12539,Analytical Techniques
+12559,Modeling Workflows
+12567,matplotlib
+12568,seaborn
+12569,Model Performance Evaluation
+12570,MLOps
+12571,Time Series Forecasting
+12573,Simulation Modeling
+12574,Optimization Algorithms
+12575,Supply Chain Dynamics
+12576,Transportation Analytics
+12577,Transportation Logistics
+12578,Distribution Center Operations
+12581,Transportation Management Systems (TMS)
+12583,Inventory Planning
+12584,Network Optimization
+12585,Demand Forecasting
+12602,Media KPIs
+12603,Paid Media Analytics
+12611,Analytics Processes
+12612,Full-Funnel Analysis
+12616,Business Recommendations
+12629,Cloud Databases
+12656,DBT
+12657,Tibco
+12659,Metallion
+12660,MuleSoft
+12661,Tray.Io
+12662,Workado
+12672,Budgeting
+12694,Data Migration Methodologies
+12698,Compliance
+12732,Flowcharts
+12733,Control Charts
+12734,Trending Charts
+12749,Data Scrubbing
+12754,CAS Software
+12755,Financial Domain Knowledge
+12779,KPI Design
+12780,Scorecards
+12781,Performance Measurement
+12786,Ad hoc Analysis
+12788,Reporting Governance
+12789,Metric Documentation
+12802,Source to Target Mappings (STTMs)
+12816,Data Risk Analysis
+12817,Risk Remediation
+12819,Sensitive Data Analysis
+12820,Data Retention Management
+12822,Policy Tuning
+12825,Data Governance Workflows
+12827,Data Governance Frameworks
+12828,Microsoft Purview
+12829,Microsoft 365 Security & Compliance
+12830,Data Loss Prevention (DLP)
+12831,Sensitivity Labels
+12832,Auto-labeling
+12833,Data Security Posture Management (DSPM)
+12834,Cyera
+12849,Unix Command Line
+12859,Data Quality Assessment
+12861,Software Development Life Cycle (SDLC)
+12867,GAAP Accounting
+12870,Financial Planning & Analysis
+12871,Scenario Modeling
+12874,Strategic Planning
+12879,Business Finance
+12883,CoPilot
+12892,Database Security
+12894,Database Backup and Recovery
+12899,Enterprise Business Intelligence
+12909,Data Science Models
+12924,IRI
+12925,EYC
+12927,Blue Planner
+12929,Circana
+12930,8451
+12931,Scintilla
+12934,Statistical Inference
+12936,Algebra
+12949,Greenhouse
+12973,SAP BusinessObjects
+12986,AI/ML
+12992,Technical data analysis
+12993,Data validation
+12996,Data interpretation
+13017,Epic Cogito
+13025,DOE
+13048,Cloud Platforms
+13062,Churn Analysis
+13077,AWS Sagemaker
+13080,S3
+13081,Machine Learning Models
+13084,Metric Analysis
+13088,Workflow Monitoring
+13089,Data Pipeline Understanding
+13094,Image Processing
+13096,Computer Vision
+13113,Data Cataloging
+13118,Epics
+13119,Features
+13120,Product Development Lifecycle
+13122,Large-scale Datasets
+13124,Cloud Data Ecosystems
+13126,SLA Management
+13127,SCM
+13128,Data Entitlements
+13132,Product Metrics
+13133,Data Onboarding
+13134,Data Quality Tools
+13135,AI Validation
+13150,Magic ETL
+13153,Beast Modes
+13154,CMiC
+13156,Cloud Data Platforms
+13160,Indexing
+13165,Row-Level Security
+13174,Data Accuracy
+13180,CCISO
+13182,CISSP
+13183,CISM
+13184,GSEC
+13185,GSLC
+13186,SSCP
+13214,Dataflows
+13219,Meta
+13220,LinkedIn
+13232,Reports
+13242,Mobile Product Analytics
+13248,Metrics Frameworks
+13256,AppDynamics
+13273,Jupyter Notebook
+13289,Azure Synapse Pipelines
+13317,Bullhorn
+13332,RapidMiner
+13333,Gurobi
+13340,Plastic Injection Molding
+13341,GD&T
+13342,Prototyping
+13343,Tool Development
+13344,Database Migration
+13345,Data Backup
+13348,Data Restoration
+13350,Database Maintenance
+13352,Server Administration
+13353,Database Implementation
+13356,Database Modeling
+13357,Production Server Management
+13358,Operating Systems
+13364,Operational Research
+13376,Skywise
+13380,SAP AP1
+13389,IT Architecture Design
+13394,Oracle 11i
+13396,SAP S4/HANA
+13476,AI-ML Model
+13478,Association Rule Mining
+13494,SQL Accounting Software
+13500,SCRUM
+13505,Optimisation
+13507,Business Modelling
+13511,MS Flow
+13514,Simulation Modelling
+13536,Multidimensional Models
+13544,Data governance
+13545,Data integration
+13546,Data architecture
+13547,Data transformation
+13548,pydash
+13551,RShiny
+13553,Data preparation
+13555,Mesos
+13556,Probability Theory
+13557,Apache Pig
+13566,Bayes Theorem
+13568,Vagrant
+13573,SVM
+13586,Decision Trees
+13591,Naive Bayes
+13592,k-NN
+13636,Bootstrap
+13639,GraphDB
+13642,Docker Compose
+13644,Dash
+13650,Nginx
+13653,R Markdown
+13654,CassandraDB
+13658,MES
+13660,Tiscam MES
+13692,AWS Data Services
+13694,Cloud Data Pipelines
+13700,Text Mining
+13714,Data Visualization tools
+13715,Machine Learning technologies
+13716,Big Data technologies
+13752,Azure Boards
+13781,Microsoft Dynamics
+13787,Presentations
+13804,Risk Control
+13812,CAMS Certification
+13830,Design Documentation
+13831,UAT Management
+13846,Microsoft Forms
+13849,Reckon
+13850,MYOB
+13852,OBM
+13853,Microsoft Dynamics 365 AX
+13854,Microsoft Dynamics 365 Business Central
+13855,Sage
+13856,Microsoft Dynamics 365 Navision
+13864,Data Collection System Design
+13892,AutoCAD
+13897,Flex PLM
+13928,AI tools
+13929,PSI
+13974,Model-N
+13988,Data Integration Framework
+13995,AI Model Training
+14009,Python Dash
+14019,Docker Swarm
+14027,Dynamics 365 Business Central
+14040,CES
+14041,CSAT
+14046,NPS
+14061,MT4
+14064,MT5
+14106,Photoshop
+14108,Illustrator
+14151,Infor CloudSuite
